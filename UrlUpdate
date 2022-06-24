@@ -1,7 +1,7 @@
 {
   "Version": "5.0",
   "ReleaseNotes": "Atualização Vip-Net\nconfig 5.0 novas para todas as operadoras\nCada operadora terá mais de 5 conexões",
-  "UrlUpdate": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlUpdate",
+  "UrlUpdate": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlSms",
   "EmailFeedback": "ultranetvpn@gmail.com",
   "UrlContato": "https://t.me/VEM_BRABO",
