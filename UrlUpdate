@@ -1,6 +1,6 @@
 {
-  "Version": "6.0",
-  "ReleaseNotes": "Atualização Vip-Net\nconfig 6.0 novas na operadora oi\nCada operadora terá mais de 5 conexões",
+  "Version": "7.0",
+  "ReleaseNotes": "Atualização Vip-Net\nconfig 7.0 novas na operadora oi\nCada operadora terá mais de 5 conexões",
   "UrlUpdate": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlSms",
   "EmailFeedback": "multihdssh@gmail.com",
