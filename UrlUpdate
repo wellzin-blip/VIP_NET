@@ -1,6 +1,6 @@
 {
   "Version": "9.0",
-  "ReleaseNotes": "Atualização Vip-Net\nconfig 8.0 novas na operadora vivo\nModo vivo easy para operadora vivo\na vivo funcioando apenas nesse plano",
+  "ReleaseNotes": "Atualização Vip-Net\nconfig 9.0 novas na operadora vivo\nModo vivo easy para operadora vivo\na vivo funcioando apenas nesse plano.",
   "UrlUpdate": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlSms",
   "EmailFeedback": "multihdssh@gmail.com",
