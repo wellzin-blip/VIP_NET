@@ -1,5 +1,5 @@
 {
-  "Version": "8.0",
+  "Version": "9.0",
   "ReleaseNotes": "Atualização Vip-Net\nconfig 8.0 novas na operadora vivo\nModo vivo easy para operadora vivo\na vivo funcioando apenas nesse plano",
   "UrlUpdate": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlSms",
@@ -103,12 +103,12 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟣VIVO [OFF]",
+      "Name": "VIVO [TESTE 02]",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: ddpdix120dsgt.cloudfront.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "Payload": "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "live.vivo.com.br",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "172.67.165.43",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
