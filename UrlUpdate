@@ -1,6 +1,6 @@
 {
-  "Version": "11.0",
-  "ReleaseNotes": "Atualização Vip-Net\nconfig 9.0 novas na operadora vivo\nModo vivo todas regiões.",
+  "Version": "12.0",
+  "ReleaseNotes": "Atualização Vip-Net\nconfig 12.0 novas na operadora vivo\nModo vivo todas regiões.",
   "UrlUpdate": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlSms",
   "EmailFeedback": "multihdssh@gmail.com",
