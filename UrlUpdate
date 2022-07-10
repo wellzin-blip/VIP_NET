@@ -1,5 +1,5 @@
 {
-  "Version": "10.0",
+  "Version": "11.0",
   "ReleaseNotes": "Atualização Vip-Net\nconfig 9.0 novas na operadora vivo\nModo vivo todas regiões.",
   "UrlUpdate": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/wellzin-blip/VIP_NET/main/UrlSms",
@@ -93,12 +93,23 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "🟣VIVO [PROXY]",
+      "Name": "🟣VIVO [FRONT]",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: vip.vipssh.xyz[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.156.83.107",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+    {
+      "Name": "🟣VIVO [PROXY]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: vip.multihd4g.com[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "vivoemdia.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "104.21.11.51",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
