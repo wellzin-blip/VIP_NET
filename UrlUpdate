@@ -103,7 +103,6 @@
       "Info": "Proxy"
     },
     {
-    {
       "Name": "🟣VIVO [PROXY]",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host: vip.multihd4g.com[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
