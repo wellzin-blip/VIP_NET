@@ -25,9 +25,9 @@
     {
       "Name": "🔵TIM [SSL 1]",
       "FLAG": "tim",
-      "Payload": "GET wss://materiais.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "materiais.alura.com.br",
-      "TlsIP": "172.64.147.215",
+      "Payload": "GET wss://bam.nr-data.net  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "bam.nr-data.net",
+      "TlsIP": "162.247.241.14",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
